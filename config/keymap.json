@@ -1,13 +1,13 @@
 {
-  "keyboard": "handwired/dactyl_reduced",
-  "keymap": "default",
-  "layout": "LAYOUT",
+  "keyboard": "foo",
+  "keymap": "",
+  "layout": "",
   "layer_names": [
-    "base",
-    "fps",
-    "numpad",
-    "media",
-    "fn"
+    "default_layer",
+    "layer_fps",
+    "layer_numpad",
+    "layer_media",
+    "layer_fn"
   ],
   "layers": [
     [
@@ -27,9 +27,9 @@
                                         "&trans", "&kp SPACE", "&trans",           "&trans", "&trans", "&trans",
                                                                "&trans",           "&trans"
     ], [
-       "&trans", "&trans", "&kp GRAVE", "&kp MINUS", "&kp EQUAL",    "&trans",           "&kp LBKT", "&kp N7",  "&kp N8", "&kp N9",     "&kp RBKT", "&trans",
-       "&trans", "&trans",    "&trans",    "&trans",    "&trans",    "&trans",             "&kp N0", "&kp N4",  "&kp N5", "&kp N6", "&kp ASTERISK", "&trans",
-       "&trans", "&trans",    "&trans",    "&trans",    "&trans",    "&trans",             "&trans", "&kp N1",  "&kp N2", "&kp N3",       "&trans", "&trans",
+       "&trans", "&trans", "&kp GRAVE", "&kp MINUS", "&kp EQUAL",    "&trans",           "&kp LBKT", "&kp N7",  "&kp N8", "&kp N9", "&kp RBKT", "&trans",
+       "&trans", "&trans",    "&trans",    "&trans",    "&trans",    "&trans",             "&kp N0", "&kp N4",  "&kp N5", "&kp N6",   "&trans", "&trans",
+       "&trans", "&trans",    "&trans",    "&trans",    "&trans",    "&trans",             "&trans", "&kp N1",  "&kp N2", "&kp N3",   "&trans", "&trans",
                               "&trans",    "&trans",    "&trans",                                    "&kp N0", "&kp DOT", "&trans",
                                                         "&trans",  "&kp LCMD",             "&trans", "&trans",
                                            "&trans",    "&trans",    "&trans",             "&trans", "&trans",  "&trans",
